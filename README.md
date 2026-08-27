@@ -3,6 +3,16 @@
 
 Welcome to **Singles.js**, the open-source matchmaking hub for developers around the world! Whether you write Python, JavaScript, or Rust, love is just a pull request away.  
 
+<!-- BEGIN gh-mutual-linking -->
+
+### Related projects
+
+- [**html-bio-generator**](https://github.com/didvc/html-bio-generator) — A modern, intuitive tool for creating beautiful HTML bio pages with ease. Built with Next.js, TypeScript, and Tailwind CSS. Perfect for…
+- [**app**](https://github.com/anime-portfolio/app) — 🎌 A stunning developer portfolio template with anime aesthetics and interactive features. Transform your portfolio into an anime-inspired…
+- [**Quants**](https://github.com/DevDating/Quants) — For Quant Traders, Data Scientists, and Engineers.
+- [**Singles.rs**](https://github.com/DevDating/Singles.rs) — By Rust developers, for Rust developers.
+<!-- END gh-mutual-linking -->
+
 ## 👩‍💻 Who is this for?  
 - Developers who are single and looking for relationships.  
 - Techies who want to meet like-minded individuals.  
